@@ -1,5 +1,4 @@
 print("HOLA")
 
-1+1
-xwsdwd
+print("HOL 2A")
 
